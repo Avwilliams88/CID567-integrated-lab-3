@@ -1,5 +1,6 @@
 # CID567-integrated-lab-3
 Credit Card 26.22 
+
 def find_highest_debt(names, debts):
     max_debt = max(debts)
     index = debts.index(max_debt)
